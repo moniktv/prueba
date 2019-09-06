@@ -1,0 +1,7 @@
+<html>
+<head>prueba diseño web</head>
+<title>pagina web de prueba</title>
+<body>
+primera prueba de la pagina web
+</body>
+</html>
